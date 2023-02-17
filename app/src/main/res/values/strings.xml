@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="film_title">FilmKu</string>
+    <string name="sorted_by">SortBy</string>
+    <string name="year">YEAR</string>
+    <string name="rate">RATE</string>
+</resources>
